@@ -7,7 +7,7 @@ title:            Melis Demir
 tagline:          'A Personal Page'
 description:      'Personal blog about my cv'
 url:              
-baseurl:          /
+baseurl:          '/'
 
 # Custom vars
 socials_links:
