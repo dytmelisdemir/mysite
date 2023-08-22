@@ -13,10 +13,6 @@ baseurl:          /
 socials_links:
 - url: https://github.com/melisdemir
   class: fab fa-github
-- url: https://www.facebook.com/profile.php?id=100001788716921
-  class: fab fa-facebook-square
-- url: https://vk.com/id151991161
-  class: fab fa-vk
 - url: https://www.instagram.com/karaciger_ve_beslenme
   class: fab fa-instagram
 
