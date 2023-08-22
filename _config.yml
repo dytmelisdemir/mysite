@@ -5,7 +5,7 @@ markdown: kramdown
 # Setup
 title:            Melis Demir
 tagline:          'A Personal Page'
-description:      'Personal blog about new technologies, JAM Stack and Jekyll'
+description:      'Personal blog about my cv'
 url:              
 baseurl:          /
 
@@ -23,7 +23,7 @@ socials_links:
 # paginate_path: 'blog.html'
 
 github:
-  repo:           https://github.com/melisdemir
+  repo:           https://github.com/dytmelisdemir
 
 plugins: [kramdown, rouge]
 
