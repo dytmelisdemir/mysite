@@ -11,7 +11,7 @@ baseurl:          /
 
 # Custom vars
 socials_links:
-- url: https://github.com/melisdemir
+- url: https://github.com/dytmelisdemir
   class: fab fa-github
 - url: https://dyt.melisdemir@gmail.com
   class: fab icon-mail
