@@ -39,3 +39,13 @@ collections:
 #custom icons
 favicon: /favicon.ico
 apple_touch_icon: /assets/img/logo.png
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - cache/
